@@ -1,0 +1,1 @@
+Folder destinado às figuras.
