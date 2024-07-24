@@ -2,7 +2,7 @@
 
 Repositório destinado aos materiais de aula. Tópicos abordados:
 
-1. Introdução (O que é Machine Learning, tipos de aprendizado, dados treino e teste, problemas de regressão, classificação, agrupamento, metodologia CRISP-DM, Algoritmos de ML e Aplicações)
+1. Introdução (O que é Machine Learning, tipos de aprendizado, dados treino e teste, problemas de regressão, classificação, agrupamento, metodologia CRISP-DM, Algoritmos de ML e Aplicações, validação de modelos, Underfitting/Overfitting)
 2. **Algortimos de Regressão**: previsão de custos em saúde e preenchimento de nulos com KNN em um dataset de Real Esate (cases com Python)
 3. **Algortimos de Classificação**: previsão de churn (case com Python)
 4. **Algoritmos de Agrupamento**: segmentação de uma base clientes (case com Python)
