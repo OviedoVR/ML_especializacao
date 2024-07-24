@@ -17,6 +17,8 @@ Cases Hands-on (desenvolvimento do zero em aula):
 - Previsão do risco de crédito para uma base de clientes (classficação)
 - Segmentação de clientes de um shopping (agrupamento)
 
+<br>
+
 Onde encontrar bases de dados para praticar:
 
 > **Web:**
