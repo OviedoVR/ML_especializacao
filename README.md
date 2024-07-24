@@ -10,6 +10,8 @@ Repositório destinado aos materiais de aula. Tópicos abordados:
 6. Ferramentas de autoML: comparando e tunando modelos de ML com a biblioteca PyCaret (case com Python)
 7. Uso de ML em pesquisa científica (cases publicados) e Redes Neurais Artificiais (teoria)
 
+<br>
+
 Cases Hands-on (desenvolvimento do zero em aula):
 - Previsão do tempo de vida útil restante em baterias (regressão)
 - Previsão do risco de crédito para uma base de clientes (classficação)
