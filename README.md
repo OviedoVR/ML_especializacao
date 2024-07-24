@@ -3,12 +3,12 @@
 Repositório destinado aos materiais de aula. Tópicos abordados:
 
 1. Introdução (O que é Machine Learning, tipos de aprendizado, dados treino e teste, problemas de regressão, classificação, agrupamento, metodologia CRISP-DM, Algoritmos de ML e Aplicações
-2. Algortimos de Regressão: previsão de custos em saúde e preenchimento de nulos com KNN em um dataset de Real Esate (cases com Python)
-3. Algortimos de Classificação: previsão de churn (case com Python)
-4. Algoritmos de Agrupamento: segmentação de uma base clientes (case com Python)
-5. Redução de dimensionalidade com Análise de Componentes Principais (PCA) (case com Python)
-6. Ferramentas de autoML: comparando e tunando modelos de ML com a biblioteca PyCaret (case com Python)
-7. Uso de ML em pesquisa científica (cases publicados) e Redes Neurais Artificiais (teoria)
+2. **Algortimos de Regressão**: previsão de custos em saúde e preenchimento de nulos com KNN em um dataset de Real Esate (cases com Python)
+3. **Algortimos de Classificação**: previsão de churn (case com Python)
+4. **Algoritmos de Agrupamento**: segmentação de uma base clientes (case com Python)
+5. Redução de dimensionalidade com **Análise de Componentes Principais (PCA)** (case com Python)
+6. **Ferramentas de autoML**: comparando e tunando modelos de ML com a biblioteca PyCaret (case com Python)
+7. Uso de ML em pesquisa científica (cases publicados) e **Redes Neurais Artificiais** (teoria)
 
 <br>
 
