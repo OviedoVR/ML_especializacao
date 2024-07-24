@@ -32,7 +32,7 @@ Onde encontrar bases de dados para praticar:
 
 ```python
 import seaborn as sns
-sns.get_dataset_names
+sns.get_dataset_names()
 # retorna uma lista de datasets disponíveis na biblioteca seaborn
 ```
 
