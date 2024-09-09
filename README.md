@@ -8,13 +8,15 @@ Repositório destinado aos materiais de aula. Tópicos abordados:
 4. **Algoritmos de Agrupamento**: segmentação de uma base clientes (case com Python)
 5. Redução de dimensionalidade com **Análise de Componentes Principais (PCA)** (case com Python)
 6. **Ferramentas de autoML**: comparando e tunando modelos de ML com a biblioteca PyCaret (case com Python)
-7. Uso de ML em pesquisa científica (cases publicados) e **Redes Neurais Artificiais** (teoria)
-
+7. Uso de ML em pesquisa científica (cases publicados) 
+8. **Redes Neurais Artificiais** (foco em Multi-Layer Perceptron)
+9. **Deploy** de máquinas preditivas com **Streamlit**
+    
 <br>
 
 Cases Hands-on (desenvolvimento do zero em aula):
 - Previsão do tempo de vida útil restante em baterias (regressão)
-- Previsão do risco de crédito para uma base de clientes (classficação)
+- Previsão do risco de crédito para uma base de clientes (classificação)
 - Segmentação de clientes de um shopping (agrupamento)
 
 <br>
