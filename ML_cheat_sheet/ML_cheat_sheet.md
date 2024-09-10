@@ -249,3 +249,18 @@ model.fit(X, y)
 # Predições
 y_pred = model.predict(X)
 ```
+
+## 16. Exportando um modelo
+
+```python
+import pickle
+
+with open('rf.pkl', 'wb') as file:
+  pickle.dump(rf, file)
+```
+
+```python
+with open('rf.pkl', 'rb') as file:
+    loaded_model = pickle.load(file)
+loaded_model
+```
