@@ -10,7 +10,8 @@ Repositório destinado aos materiais de aula. Tópicos abordados:
 6. **Ferramentas de autoML**: comparando e tunando modelos de ML com a biblioteca PyCaret (case com Python)
 7. Uso de ML em pesquisa científica (cases publicados) 
 8. **Redes Neurais Artificiais** (foco em Multi-Layer Perceptron)
-9. **Deploy** de máquinas preditivas com **Streamlit** ([repositório](https://github.com/OviedoVR/MLpredictSales) GitHub)
+9. **Deteção de anomalias**
+10. **Deploy** de máquinas preditivas com **Streamlit** ([repositório](https://github.com/OviedoVR/MLpredictSales) GitHub)
     
 <br>
 
