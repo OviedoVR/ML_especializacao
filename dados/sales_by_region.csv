@@ -1,301 +1,301 @@
-Sales Person;Geography;Product;Amount;Units
-Ram Mahesh;UK;Manuka Honey Choco;0 ;135
-Gunar Cockshoot;UK;Mint Chip Choco;21 ;168
-Brien Boise;New Zealand;70% Dark Bites;42 ;150
-Barr Faughny;Australia;Milk Bars;56 ;51
-Oby Sorrel;Australia;Milk Bars;63 ;123
-Husein Augar;USA;Baker's Choco Chips;98 ;159
-Carla Molina;Canada;Baker's Choco Chips;98 ;204
-Carla Molina;Australia;White Choc;154 ;21
-Brien Boise;Australia;After Nines;168 ;84
-Gigi Bohling;New Zealand;Smooth Sliky Salty;182 ;48
-Barr Faughny;Canada;Eclairs;189 ;48
-Ram Mahesh;Canada;Almond Choco;217 ;36
-Barr Faughny;New Zealand;99% Dark & Pure;238 ;18
-Oby Sorrel;New Zealand;Spicy Special Slims;245 ;288
-Barr Faughny;India;Milk Bars;252 ;54
-Husein Augar;New Zealand;Almond Choco;259 ;207
-Ches Bonnell;Canada;Choco Coated Almonds;280 ;87
-Carla Molina;India;After Nines;336 ;144
-Brien Boise;USA;Peanut Butter Cubes;357 ;126
-Gigi Bohling;UK;Drinking Coco;385 ;249
-Brien Boise;New Zealand;Spicy Special Slims;434 ;87
-Curtice Advani;Australia;White Choc;469 ;75
-Gigi Bohling;USA;After Nines;490 ;84
-Curtice Advani;Canada;Spicy Special Slims;497 ;63
-Gigi Bohling;New Zealand;After Nines;518 ;75
-Curtice Advani;India;Almond Choco;525 ;48
-Barr Faughny;USA;99% Dark & Pure;553 ;15
-Curtice Advani;New Zealand;70% Dark Bites;560 ;81
-Oby Sorrel;USA;Spicy Special Slims;567 ;228
-Ram Mahesh;Australia;Baker's Choco Chips;609 ;87
-Carla Molina;USA;99% Dark & Pure;609 ;99
-Ram Mahesh;Australia;85% Dark Bars;623 ;51
-Barr Faughny;UK;Fruit & Nut Bars;630 ;36
-Oby Sorrel;India;Eclairs;700 ;87
-Husein Augar;India;Eclairs;707 ;174
-Carla Molina;New Zealand;Raspberry Choco;714 ;231
-Barr Faughny;Canada;Organic Choco Syrup;798 ;519
-Gunar Cockshoot;USA;Peanut Butter Cubes;819 ;306
-Brien Boise;Australia;Milk Bars;819 ;510
-Carla Molina;USA;Organic Choco Syrup;847 ;129
-Carla Molina;Canada;Caramel Stuffed Bars;854 ;309
-Gigi Bohling;India;99% Dark & Pure;861 ;195
-Curtice Advani;Australia;Mint Chip Choco;938 ;6
-Husein Augar;India;Mint Chip Choco;938 ;189
-Gunar Cockshoot;New Zealand;Almond Choco;938 ;366
-Oby Sorrel;Canada;Milk Bars;945 ;75
-Curtice Advani;Australia;Peanut Butter Cubes;959 ;135
-Husein Augar;USA;Almond Choco;959 ;147
-Ches Bonnell;UK;Organic Choco Syrup;966 ;198
-Gunar Cockshoot;Canada;Caramel Stuffed Bars;973 ;162
-Barr Faughny;New Zealand;50% Dark Bites;1.057 ;54
-Curtice Advani;USA;Orange Choco;1.071 ;270
-Husein Augar;New Zealand;Manuka Honey Choco;1.085 ;273
-Curtice Advani;Australia;Organic Choco Syrup;1.134 ;282
-Carla Molina;India;Mint Chip Choco;1.274 ;225
-Gunar Cockshoot;Canada;99% Dark & Pure;1.281 ;18
-Ches Bonnell;Australia;50% Dark Bites;1.281 ;75
-Curtice Advani;USA;Almond Choco;1.302 ;402
-Curtice Advani;Canada;Manuka Honey Choco;1.400 ;135
-Oby Sorrel;Canada;Organic Choco Syrup;1.407 ;72
-Oby Sorrel;India;White Choc;1.428 ;93
-Curtice Advani;India;Raspberry Choco;1.442 ;15
-Carla Molina;India;Eclairs;1.463 ;39
-Curtice Advani;New Zealand;Drinking Coco;1.505 ;102
-Gigi Bohling;Canada;70% Dark Bites;1.526 ;105
-Carla Molina;New Zealand;70% Dark Bites;1.526 ;240
-Brien Boise;UK;Baker's Choco Chips;1.561 ;27
-Ches Bonnell;India;White Choc;1.568 ;96
-Barr Faughny;UK;After Nines;1.568 ;141
-Barr Faughny;USA;Eclairs;1.589 ;303
-Ram Mahesh;USA;Manuka Honey Choco;1.617 ;126
-Ram Mahesh;New Zealand;70% Dark Bites;1.624 ;114
-Ram Mahesh;USA;85% Dark Bars;1.638 ;48
-Curtice Advani;UK;70% Dark Bites;1.638 ;63
-Gigi Bohling;India;Peanut Butter Cubes;1.652 ;93
-Gunar Cockshoot;UK;Caramel Stuffed Bars;1.652 ;102
-Brien Boise;Australia;Fruit & Nut Bars;1.701 ;234
-Brien Boise;New Zealand;99% Dark & Pure;1.771 ;204
-Ches Bonnell;Australia;Drinking Coco;1.778 ;270
-Barr Faughny;UK;White Choc;1.785 ;462
-Brien Boise;New Zealand;After Nines;1.890 ;195
-Curtice Advani;New Zealand;Mint Chip Choco;1.904 ;405
-Carla Molina;Canada;99% Dark & Pure;1.925 ;192
-Ches Bonnell;India;50% Dark Bites;1.932 ;369
-Oby Sorrel;USA;Orange Choco;1.974 ;195
-Ram Mahesh;Australia;Smooth Sliky Salty;1.988 ;39
-Brien Boise;India;Mint Chip Choco;2.009 ;219
-Barr Faughny;UK;Mint Chip Choco;2.016 ;117
-Gunar Cockshoot;USA;Fruit & Nut Bars;2.023 ;78
-Brien Boise;USA;Manuka Honey Choco;2.023 ;168
-Curtice Advani;UK;White Choc;2.100 ;414
-Gunar Cockshoot;USA;Manuka Honey Choco;2.114 ;66
-Carla Molina;USA;Raspberry Choco;2.114 ;186
-Ches Bonnell;USA;Mint Chip Choco;2.135 ;27
-Husein Augar;Canada;White Choc;2.142 ;114
-Ches Bonnell;Canada;Smooth Sliky Salty;2.149 ;117
-Ches Bonnell;India;Orange Choco;2.205 ;138
-Oby Sorrel;Australia;After Nines;2.205 ;141
-Gunar Cockshoot;India;Fruit & Nut Bars;2.212 ;117
-Curtice Advani;India;Mint Chip Choco;2.219 ;75
-Ches Bonnell;India;Peanut Butter Cubes;2.226 ;48
-Brien Boise;Australia;Organic Choco Syrup;2.268 ;63
-Ram Mahesh;USA;70% Dark Bites;2.275 ;447
-Ram Mahesh;India;Organic Choco Syrup;2.289 ;135
-Curtice Advani;Australia;Milk Bars;2.317 ;123
-Oby Sorrel;Canada;Fruit & Nut Bars;2.317 ;261
-Carla Molina;New Zealand;Baker's Choco Chips;2.324 ;177
-Husein Augar;Australia;Eclairs;2.408 ;9
-Gigi Bohling;USA;Drinking Coco;2.415 ;15
-Gunar Cockshoot;USA;50% Dark Bites;2.415 ;255
-Husein Augar;USA;Organic Choco Syrup;2.429 ;144
-Husein Augar;Australia;Baker's Choco Chips;2.436 ;99
-Gunar Cockshoot;USA;White Choc;2.464 ;234
-Oby Sorrel;Canada;Manuka Honey Choco;2.471 ;342
-Ches Bonnell;USA;Organic Choco Syrup;2.478 ;21
-Ram Mahesh;Australia;Manuka Honey Choco;2.541 ;45
-Ram Mahesh;Australia;White Choc;2.541 ;90
-Oby Sorrel;USA;Raspberry Choco;2.562 ;6
-Gunar Cockshoot;India;Orange Choco;2.583 ;18
-Husein Augar;UK;Drinking Coco;2.639 ;204
-Husein Augar;Australia;Mint Chip Choco;2.646 ;120
-Ches Bonnell;Canada;Drinking Coco;2.646 ;177
-Curtice Advani;Australia;Smooth Sliky Salty;2.681 ;54
-Brien Boise;USA;Orange Choco;2.702 ;363
-Husein Augar;New Zealand;Fruit & Nut Bars;2.737 ;93
-Gigi Bohling;USA;Almond Choco;2.744 ;9
-Ram Mahesh;India;Fruit & Nut Bars;2.779 ;75
-Ches Bonnell;USA;85% Dark Bars;2.793 ;114
-Husein Augar;New Zealand;Baker's Choco Chips;2.856 ;246
-Barr Faughny;New Zealand;Raspberry Choco;2.863 ;42
-Ches Bonnell;Canada;99% Dark & Pure;2.870 ;300
-Gigi Bohling;India;Manuka Honey Choco;2.891 ;102
-Husein Augar;New Zealand;Caramel Stuffed Bars;2.919 ;45
-Gunar Cockshoot;India;Eclairs;2.919 ;93
-Carla Molina;New Zealand;Spicy Special Slims;2.933 ;9
-Husein Augar;Canada;Choco Coated Almonds;2.954 ;189
-Curtice Advani;UK;85% Dark Bars;2.989 ;3
-Curtice Advani;UK;Manuka Honey Choco;3.052 ;378
-Oby Sorrel;New Zealand;Caramel Stuffed Bars;3.059 ;27
-Barr Faughny;Canada;Smooth Sliky Salty;3.094 ;246
-Ram Mahesh;UK;Caramel Stuffed Bars;3.101 ;225
-Gunar Cockshoot;India;Baker's Choco Chips;3.108 ;54
-Ram Mahesh;Canada;Organic Choco Syrup;3.164 ;306
-Husein Augar;UK;White Choc;3.192 ;72
-Ches Bonnell;India;Choco Coated Almonds;3.262 ;75
-Gunar Cockshoot;Canada;White Choc;3.339 ;39
-Curtice Advani;India;Manuka Honey Choco;3.339 ;75
-Gigi Bohling;Canada;Eclairs;3.339 ;348
-Carla Molina;New Zealand;Orange Choco;3.388 ;123
-Curtice Advani;India;70% Dark Bites;3.402 ;366
-Oby Sorrel;USA;50% Dark Bites;3.472 ;96
-Brien Boise;India;Smooth Sliky Salty;3.507 ;288
-Barr Faughny;Australia;Almond Choco;3.549 ;3
-Curtice Advani;New Zealand;Caramel Stuffed Bars;3.556 ;459
-Brien Boise;USA;70% Dark Bites;3.598 ;81
-Gunar Cockshoot;UK;Manuka Honey Choco;3.640 ;51
-Gunar Cockshoot;India;Caramel Stuffed Bars;3.689 ;312
-Brien Boise;Australia;Choco Coated Almonds;3.752 ;213
-Curtice Advani;India;Eclairs;3.759 ;150
-Gunar Cockshoot;Canada;Fruit & Nut Bars;3.773 ;165
-Ram Mahesh;India;Peanut Butter Cubes;3.794 ;159
-Oby Sorrel;USA;Drinking Coco;3.808 ;279
-Ches Bonnell;India;Raspberry Choco;3.829 ;24
-Husein Augar;Australia;White Choc;3.850 ;102
-Curtice Advani;USA;Organic Choco Syrup;3.864 ;177
-Husein Augar;UK;85% Dark Bars;3.920 ;306
-Carla Molina;UK;50% Dark Bites;3.976 ;72
-Gunar Cockshoot;New Zealand;Eclairs;3.983 ;144
-Barr Faughny;UK;Peanut Butter Cubes;4.018 ;126
-Ram Mahesh;India;99% Dark & Pure;4.018 ;162
-Gigi Bohling;UK;85% Dark Bars;4.018 ;171
-Oby Sorrel;India;After Nines;4.053 ;24
-Husein Augar;Australia;85% Dark Bars;4.137 ;60
-Curtice Advani;India;Organic Choco Syrup;4.242 ;207
-Husein Augar;New Zealand;White Choc;4.305 ;156
-Curtice Advani;Canada;Milk Bars;4.319 ;30
-Barr Faughny;Australia;Smooth Sliky Salty;4.326 ;348
-Barr Faughny;Australia;Fruit & Nut Bars;4.417 ;153
-Ram Mahesh;Canada;Milk Bars;4.424 ;201
-Ches Bonnell;UK;Eclairs;4.438 ;246
-Gigi Bohling;USA;Manuka Honey Choco;4.480 ;357
-Ches Bonnell;New Zealand;Eclairs;4.487 ;111
-Ches Bonnell;New Zealand;Mint Chip Choco;4.487 ;333
-Ches Bonnell;USA;99% Dark & Pure;4.585 ;240
-Gunar Cockshoot;New Zealand;Manuka Honey Choco;4.592 ;324
-Ches Bonnell;USA;50% Dark Bites;4.606 ;63
-Oby Sorrel;New Zealand;Fruit & Nut Bars;4.683 ;30
-Ram Mahesh;USA;Mint Chip Choco;4.725 ;174
-Gigi Bohling;USA;Smooth Sliky Salty;4.753 ;246
-Brien Boise;USA;Organic Choco Syrup;4.753 ;300
-Carla Molina;USA;Milk Bars;4.760 ;69
-Curtice Advani;USA;70% Dark Bites;4.781 ;123
-Barr Faughny;UK;Raspberry Choco;4.802 ;36
-Oby Sorrel;UK;Spicy Special Slims;4.858 ;279
-Carla Molina;India;Fruit & Nut Bars;4.935 ;126
-Curtice Advani;New Zealand;Fruit & Nut Bars;4.949 ;189
-Gunar Cockshoot;UK;Baker's Choco Chips;4.956 ;171
-Curtice Advani;Canada;Eclairs;4.970 ;156
-Oby Sorrel;India;Baker's Choco Chips;4.991 ;9
-Gigi Bohling;New Zealand;50% Dark Bites;4.991 ;12
-Brien Boise;USA;After Nines;5.012 ;210
-Brien Boise;Canada;Fruit & Nut Bars;5.019 ;150
-Ram Mahesh;India;Eclairs;5.019 ;156
-Gigi Bohling;Australia;Choco Coated Almonds;5.075 ;21
-Ches Bonnell;USA;Caramel Stuffed Bars;5.194 ;288
-Gigi Bohling;UK;Baker's Choco Chips;5.236 ;51
-Ches Bonnell;New Zealand;Baker's Choco Chips;5.306 ;0
-Oby Sorrel;India;99% Dark & Pure;5.355 ;204
-Ram Mahesh;Canada;White Choc;5.439 ;30
-Gigi Bohling;Australia;99% Dark & Pure;5.474 ;168
-Ches Bonnell;Canada;Manuka Honey Choco;5.551 ;252
-Oby Sorrel;Australia;50% Dark Bites;5.586 ;525
-Ram Mahesh;Australia;Milk Bars;5.670 ;297
-Ches Bonnell;Australia;Caramel Stuffed Bars;5.677 ;258
-Ram Mahesh;UK;Raspberry Choco;5.775 ;42
-Ram Mahesh;UK;After Nines;5.817 ;12
-Carla Molina;Australia;After Nines;5.915 ;3
-Barr Faughny;UK;Caramel Stuffed Bars;6.027 ;144
-Curtice Advani;UK;Eclairs;6.048 ;27
-Gigi Bohling;Canada;Drinking Coco;6.111 ;3
-Curtice Advani;Canada;Choco Coated Almonds;6.118 ;9
-Carla Molina;Canada;70% Dark Bites;6.118 ;174
-Ram Mahesh;Australia;Almond Choco;6.125 ;102
-Ram Mahesh;New Zealand;Organic Choco Syrup;6.132 ;93
-Gigi Bohling;Canada;Milk Bars;6.146 ;63
-Brien Boise;New Zealand;Baker's Choco Chips;6.279 ;45
-Gigi Bohling;India;After Nines;6.279 ;237
-Gunar Cockshoot;India;White Choc;6.300 ;42
-Gigi Bohling;Canada;Fruit & Nut Bars;6.314 ;15
-Ram Mahesh;UK;Organic Choco Syrup;6.370 ;30
-Ches Bonnell;New Zealand;Peanut Butter Cubes;6.391 ;48
-Carla Molina;New Zealand;85% Dark Bars;6.398 ;102
-Brien Boise;Australia;Spicy Special Slims;6.433 ;78
-Ches Bonnell;New Zealand;70% Dark Bites;6.454 ;54
-Barr Faughny;Australia;Caramel Stuffed Bars;6.580 ;183
-Ches Bonnell;New Zealand;50% Dark Bites;6.608 ;225
-Gunar Cockshoot;USA;Raspberry Choco;6.657 ;276
-Oby Sorrel;Canada;Choco Coated Almonds;6.657 ;303
-Brien Boise;USA;Choco Coated Almonds;6.706 ;459
-Curtice Advani;India;Choco Coated Almonds;6.734 ;123
-Ram Mahesh;India;Baker's Choco Chips;6.748 ;48
-Ches Bonnell;USA;70% Dark Bites;6.755 ;252
-Curtice Advani;New Zealand;Baker's Choco Chips;6.818 ;6
-Husein Augar;India;Spicy Special Slims;6.832 ;27
-Ram Mahesh;USA;After Nines;6.853 ;372
-Oby Sorrel;Australia;Almond Choco;6.860 ;126
-Gigi Bohling;UK;After Nines;6.909 ;81
-Gigi Bohling;India;Organic Choco Syrup;6.986 ;21
-Brien Boise;UK;70% Dark Bites;7.021 ;183
-Gigi Bohling;Australia;Milk Bars;7.189 ;54
-Gunar Cockshoot;India;50% Dark Bites;7.259 ;276
-Husein Augar;New Zealand;Orange Choco;7.273 ;96
-Gigi Bohling;India;Raspberry Choco;7.280 ;201
-Gunar Cockshoot;New Zealand;Caramel Stuffed Bars;7.308 ;327
-Curtice Advani;Australia;Spicy Special Slims;7.322 ;36
-Carla Molina;USA;Caramel Stuffed Bars;7.455 ;216
-Gigi Bohling;Australia;White Choc;7.483 ;45
-Barr Faughny;India;99% Dark & Pure;7.511 ;120
-Barr Faughny;UK;Spicy Special Slims;7.651 ;213
-Ram Mahesh;New Zealand;99% Dark & Pure;7.693 ;21
-Curtice Advani;New Zealand;Smooth Sliky Salty;7.693 ;87
-Ches Bonnell;India;Eclairs;7.777 ;39
-Gunar Cockshoot;India;Choco Coated Almonds;7.777 ;504
-Barr Faughny;UK;Organic Choco Syrup;7.812 ;81
-Husein Augar;USA;Raspberry Choco;7.833 ;243
-Carla Molina;India;Peanut Butter Cubes;7.847 ;174
-Curtice Advani;India;Baker's Choco Chips;8.008 ;456
-Husein Augar;India;Fruit & Nut Bars;8.155 ;90
-Barr Faughny;Canada;Manuka Honey Choco;8.211 ;75
-Ches Bonnell;Canada;After Nines;8.435 ;42
-Husein Augar;India;Orange Choco;8.463 ;492
-Gigi Bohling;New Zealand;White Choc;8.813 ;21
-Gunar Cockshoot;Australia;Baker's Choco Chips;8.841 ;303
-Ches Bonnell;India;85% Dark Bars;8.862 ;189
-Ram Mahesh;USA;Peanut Butter Cubes;8.869 ;432
-Brien Boise;UK;Smooth Sliky Salty;8.890 ;210
-Ram Mahesh;New Zealand;Manuka Honey Choco;9.002 ;72
-Husein Augar;Canada;70% Dark Bites;9.051 ;57
-Gunar Cockshoot;Canada;Mint Chip Choco;9.198 ;36
-Barr Faughny;UK;Orange Choco;9.443 ;162
-Husein Augar;Australia;Peanut Butter Cubes;9.506 ;87
-Carla Molina;Canada;Drinking Coco;9.632 ;288
-Brien Boise;UK;Drinking Coco;9.660 ;27
-Brien Boise;New Zealand;Raspberry Choco;9.709 ;30
-Ram Mahesh;Canada;Peanut Butter Cubes;9.772 ;90
-Ches Bonnell;New Zealand;After Nines;9.835 ;207
-Barr Faughny;New Zealand;Eclairs;9.926 ;201
-Curtice Advani;Canada;Almond Choco;10.073 ;120
-Ches Bonnell;Australia;70% Dark Bites;10.129 ;312
-Carla Molina;Canada;Choco Coated Almonds;10.304 ;84
-Carla Molina;Canada;Milk Bars;10.311 ;231
-Barr Faughny;Canada;Mint Chip Choco;11.417 ;21
-Husein Augar;Canada;Organic Choco Syrup;11.522 ;204
-Barr Faughny;New Zealand;Drinking Coco;11.571 ;138
-Ram Mahesh;USA;Choco Coated Almonds;12.348 ;234
-Oby Sorrel;UK;Peanut Butter Cubes;12.950 ;30
-Gigi Bohling;USA;Raspberry Choco;13.391 ;201
-Husein Augar;India;Caramel Stuffed Bars;14.329 ;150
-Gigi Bohling;India;Orange Choco;15.610 ;339
-Gigi Bohling;Canada;Mint Chip Choco;16.184 ;39
+Geography;Product;Amount;Units;Cost per unit;Cost
+New Zealand;70% Dark Bites;1624;114;14,49;1651,86
+USA;Choco Coated Almonds;6706;459;8,65;3970,35
+USA;Almond Choco;959;147;11,88;1746,36
+Canada;Drinking Coco;9632;288;6,47;1863,36
+UK;White Choc;2100;414;13,15;5444,1
+USA;Peanut Butter Cubes;8869;432;12,37;5343,84
+Australia;Smooth Sliky Salty;2681;54;5,79;312,66
+USA;After Nines;5012;210;9,77;2051,7
+Australia;50% Dark Bites;1281;75;11,7;877,5
+New Zealand;50% Dark Bites;4991;12;11,7;140,4
+UK;White Choc;1785;462;13,15;6075,3
+New Zealand;Eclairs;3983;144;3,11;447,84
+Australia;Mint Chip Choco;2646;120;8,79;1054,8
+India;Milk Bars;252;54;9,33;503,82
+USA;White Choc;2464;234;13,15;3077,1
+USA;Manuka Honey Choco;2114;66;7,16;472,56
+New Zealand;Smooth Sliky Salty;7693;87;5,79;503,73
+India;Orange Choco;15610;339;10,62;3600,18
+India;After Nines;336;144;9,77;1406,88
+UK;Orange Choco;9443;162;10,62;1720,44
+India;Fruit & Nut Bars;8155;90;6,49;584,1
+Australia;Fruit & Nut Bars;1701;234;6,49;1518,66
+Australia;After Nines;2205;141;9,77;1377,57
+New Zealand;99% Dark & Pure;1771;204;7,64;1558,56
+USA;Raspberry Choco;2114;186;11,73;2181,78
+Canada;Milk Bars;10311;231;9,33;2155,23
+UK;Mint Chip Choco;21;168;8,79;1476,72
+USA;Orange Choco;1974;195;10,62;2070,9
+Canada;Fruit & Nut Bars;6314;15;6,49;97,35
+New Zealand;Fruit & Nut Bars;4683;30;6,49;194,7
+New Zealand;85% Dark Bars;6398;102;4,97;506,94
+USA;99% Dark & Pure;553;15;7,64;114,6
+UK;70% Dark Bites;7021;183;14,49;2651,67
+UK;After Nines;5817;12;9,77;117,24
+UK;50% Dark Bites;3976;72;11,7;842,4
+Australia;Organic Choco Syrup;1134;282;16,73;4717,86
+UK;Caramel Stuffed Bars;6027;144;10,38;1494,72
+New Zealand;Mint Chip Choco;1904;405;8,79;3559,95
+India;Choco Coated Almonds;3262;75;8,65;648,75
+India;Organic Choco Syrup;2289;135;16,73;2258,55
+India;Organic Choco Syrup;6986;21;16,73;351,33
+Australia;Fruit & Nut Bars;4417;153;6,49;992,97
+India;Raspberry Choco;1442;15;11,73;175,95
+USA;50% Dark Bites;2415;255;11,7;2983,5
+New Zealand;99% Dark & Pure;238;18;7,64;137,52
+New Zealand;Fruit & Nut Bars;4949;189;6,49;1226,61
+Australia;Choco Coated Almonds;5075;21;8,65;181,65
+Canada;Mint Chip Choco;9198;36;8,79;316,44
+India;Manuka Honey Choco;3339;75;7,16;537
+India;Eclairs;5019;156;3,11;485,16
+Canada;Mint Chip Choco;16184;39;8,79;342,81
+Canada;Spicy Special Slims;497;63;9;567
+Canada;Manuka Honey Choco;8211;75;7,16;537
+Australia;Caramel Stuffed Bars;6580;183;10,38;1899,54
+USA;Milk Bars;4760;69;9,33;643,77
+Canada;White Choc;5439;30;13,15;394,5
+India;Eclairs;1463;39;3,11;121,29
+India;Choco Coated Almonds;7777;504;8,65;4359,6
+New Zealand;Manuka Honey Choco;1085;273;7,16;1954,68
+New Zealand;Smooth Sliky Salty;182;48;5,79;277,92
+India;Organic Choco Syrup;4242;207;16,73;3463,11
+Canada;Choco Coated Almonds;6118;9;8,65;77,85
+Canada;Fruit & Nut Bars;2317;261;6,49;1693,89
+Australia;Mint Chip Choco;938;6;8,79;52,74
+New Zealand;Raspberry Choco;9709;30;11,73;351,9
+India;Orange Choco;2205;138;10,62;1465,56
+New Zealand;Eclairs;4487;111;3,11;345,21
+USA;Drinking Coco;2415;15;6,47;97,05
+India;99% Dark & Pure;4018;162;7,64;1237,68
+India;99% Dark & Pure;861;195;7,64;1489,8
+Australia;50% Dark Bites;5586;525;11,7;6142,5
+India;Peanut Butter Cubes;2226;48;12,37;593,76
+India;Caramel Stuffed Bars;14329;150;10,38;1557
+India;Orange Choco;8463;492;10,62;5225,04
+India;Manuka Honey Choco;2891;102;7,16;730,32
+Canada;Fruit & Nut Bars;3773;165;6,49;1070,85
+Canada;Caramel Stuffed Bars;854;309;10,38;3207,42
+Canada;Eclairs;4970;156;3,11;485,16
+USA;Baker's Choco Chips;98;159;5,6;890,4
+USA;Raspberry Choco;13391;201;11,73;2357,73
+UK;Smooth Sliky Salty;8890;210;5,79;1215,9
+Australia;Milk Bars;56;51;9,33;475,83
+Canada;White Choc;3339;39;13,15;512,85
+USA;Drinking Coco;3808;279;6,47;1805,13
+Australia;Milk Bars;63;123;9,33;1147,59
+UK;Organic Choco Syrup;7812;81;16,73;1355,13
+New Zealand;99% Dark & Pure;7693;21;7,64;160,44
+Canada;Caramel Stuffed Bars;973;162;10,38;1681,56
+USA;Spicy Special Slims;567;228;9;2052
+Canada;Manuka Honey Choco;2471;342;7,16;2448,72
+Australia;Milk Bars;7189;54;9,33;503,82
+USA;Caramel Stuffed Bars;7455;216;10,38;2242,08
+India;Baker's Choco Chips;3108;54;5,6;302,4
+Australia;White Choc;469;75;13,15;986,25
+New Zealand;Fruit & Nut Bars;2737;93;6,49;603,57
+New Zealand;White Choc;4305;156;13,15;2051,4
+Australia;Eclairs;2408;9;3,11;27,99
+Canada;99% Dark & Pure;1281;18;7,64;137,52
+USA;Choco Coated Almonds;12348;234;8,65;2024,1
+India;Caramel Stuffed Bars;3689;312;10,38;3238,56
+Canada;99% Dark & Pure;2870;300;7,64;2292
+Canada;Organic Choco Syrup;798;519;16,73;8682,87
+New Zealand;Spicy Special Slims;2933;9;9;81
+USA;Almond Choco;2744;9;11,88;106,92
+Canada;Peanut Butter Cubes;9772;90;12,37;1113,3
+India;White Choc;1568;96;13,15;1262,4
+Canada;Mint Chip Choco;11417;21;8,79;184,59
+India;Baker's Choco Chips;6748;48;5,6;268,8
+Canada;Organic Choco Syrup;1407;72;16,73;1204,56
+USA;Manuka Honey Choco;2023;168;7,16;1202,88
+UK;Baker's Choco Chips;5236;51;5,6;285,6
+Canada;99% Dark & Pure;1925;192;7,64;1466,88
+New Zealand;50% Dark Bites;6608;225;11,7;2632,5
+India;Baker's Choco Chips;8008;456;5,6;2553,6
+India;White Choc;1428;93;13,15;1222,95
+India;Almond Choco;525;48;11,88;570,24
+New Zealand;Drinking Coco;1505;102;6,47;659,94
+USA;70% Dark Bites;6755;252;14,49;3651,48
+New Zealand;Drinking Coco;11571;138;6,47;892,86
+Australia;White Choc;2541;90;13,15;1183,5
+New Zealand;70% Dark Bites;1526;240;14,49;3477,6
+Australia;Almond Choco;6125;102;11,88;1211,76
+USA;Organic Choco Syrup;847;129;16,73;2158,17
+USA;Organic Choco Syrup;4753;300;16,73;5019
+Australia;Peanut Butter Cubes;959;135;12,37;1669,95
+USA;85% Dark Bars;2793;114;4,97;566,58
+USA;50% Dark Bites;4606;63;11,7;737,1
+Canada;Manuka Honey Choco;5551;252;7,16;1804,32
+Canada;Choco Coated Almonds;6657;303;8,65;2620,95
+UK;Eclairs;4438;246;3,11;765,06
+Australia;After Nines;168;84;9,77;820,68
+India;Eclairs;7777;39;3,11;121,29
+Canada;Eclairs;3339;348;3,11;1082,28
+New Zealand;Peanut Butter Cubes;6391;48;12,37;593,76
+New Zealand;After Nines;518;75;9,77;732,75
+Australia;Caramel Stuffed Bars;5677;258;10,38;2678,04
+UK;Eclairs;6048;27;3,11;83,97
+Australia;Choco Coated Almonds;3752;213;8,65;1842,45
+USA;Manuka Honey Choco;4480;357;7,16;2556,12
+New Zealand;Almond Choco;259;207;11,88;2459,16
+New Zealand;70% Dark Bites;42;150;14,49;2173,5
+Canada;Baker's Choco Chips;98;204;5,6;1142,4
+USA;Organic Choco Syrup;2478;21;16,73;351,33
+India;Peanut Butter Cubes;7847;174;12,37;2152,38
+New Zealand;Eclairs;9926;201;3,11;625,11
+Australia;Milk Bars;819;510;9,33;4758,3
+UK;Manuka Honey Choco;3052;378;7,16;2706,48
+India;Spicy Special Slims;6832;27;9;243
+UK;Mint Chip Choco;2016;117;8,79;1028,43
+Australia;Spicy Special Slims;7322;36;9;324
+USA;Peanut Butter Cubes;357;126;12,37;1558,62
+UK;White Choc;3192;72;13,15;946,8
+Canada;After Nines;8435;42;9,77;410,34
+UK;Manuka Honey Choco;0;135;7,16;966,6
+India;85% Dark Bars;8862;189;4,97;939,33
+New Zealand;Caramel Stuffed Bars;3556;459;10,38;4764,42
+India;Raspberry Choco;7280;201;11,73;2357,73
+India;70% Dark Bites;3402;366;14,49;5303,34
+New Zealand;Manuka Honey Choco;4592;324;7,16;2319,84
+USA;Raspberry Choco;7833;243;11,73;2850,39
+UK;Spicy Special Slims;7651;213;9;1917
+USA;70% Dark Bites;2275;447;14,49;6477,03
+Australia;Milk Bars;5670;297;9,33;2771,01
+USA;Mint Chip Choco;2135;27;8,79;237,33
+India;Fruit & Nut Bars;2779;75;6,49;486,75
+UK;Peanut Butter Cubes;12950;30;12,37;371,1
+Canada;Drinking Coco;2646;177;6,47;1145,19
+India;Peanut Butter Cubes;3794;159;12,37;1966,83
+USA;Peanut Butter Cubes;819;306;12,37;3785,22
+India;Orange Choco;2583;18;10,62;191,16
+USA;99% Dark & Pure;4585;240;7,64;1833,6
+India;Peanut Butter Cubes;1652;93;12,37;1150,41
+India;Baker's Choco Chips;4991;9;5,6;50,4
+India;Mint Chip Choco;2009;219;8,79;1925,01
+UK;After Nines;1568;141;9,77;1377,57
+New Zealand;Orange Choco;3388;123;10,62;1306,26
+Australia;85% Dark Bars;623;51;4,97;253,47
+Canada;Almond Choco;10073;120;11,88;1425,6
+UK;Baker's Choco Chips;1561;27;5,6;151,2
+Canada;Organic Choco Syrup;11522;204;16,73;3412,92
+Australia;Milk Bars;2317;123;9,33;1147,59
+New Zealand;Caramel Stuffed Bars;3059;27;10,38;280,26
+New Zealand;Baker's Choco Chips;2324;177;5,6;991,2
+UK;Baker's Choco Chips;4956;171;5,6;957,6
+India;99% Dark & Pure;5355;204;7,64;1558,56
+India;50% Dark Bites;7259;276;11,7;3229,2
+New Zealand;Baker's Choco Chips;6279;45;5,6;252
+Australia;Manuka Honey Choco;2541;45;7,16;322,2
+USA;Organic Choco Syrup;3864;177;16,73;2961,21
+Canada;Milk Bars;6146;63;9,33;587,79
+UK;Drinking Coco;2639;204;6,47;1319,88
+New Zealand;After Nines;1890;195;9,77;1905,15
+India;50% Dark Bites;1932;369;11,7;4317,3
+India;White Choc;6300;42;13,15;552,3
+New Zealand;70% Dark Bites;560;81;14,49;1173,69
+New Zealand;Baker's Choco Chips;2856;246;5,6;1377,6
+India;Eclairs;707;174;3,11;541,14
+USA;70% Dark Bites;3598;81;14,49;1173,69
+USA;After Nines;6853;372;9,77;3634,44
+USA;Mint Chip Choco;4725;174;8,79;1529,46
+Canada;Choco Coated Almonds;10304;84;8,65;726,6
+India;Mint Chip Choco;1274;225;8,79;1977,75
+Canada;70% Dark Bites;1526;105;14,49;1521,45
+UK;Caramel Stuffed Bars;3101;225;10,38;2335,5
+New Zealand;50% Dark Bites;1057;54;11,7;631,8
+New Zealand;Baker's Choco Chips;5306;0;5,6;0
+UK;85% Dark Bars;4018;171;4,97;849,87
+India;Mint Chip Choco;938;189;8,79;1661,31
+Australia;Drinking Coco;1778;270;6,47;1746,9
+UK;70% Dark Bites;1638;63;14,49;912,87
+Australia;White Choc;154;21;13,15;276,15
+New Zealand;After Nines;9835;207;9,77;2022,39
+New Zealand;Orange Choco;7273;96;10,62;1019,52
+UK;After Nines;6909;81;9,77;791,37
+UK;85% Dark Bars;3920;306;4,97;1520,82
+UK;Spicy Special Slims;4858;279;9;2511
+Australia;Almond Choco;3549;3;11,88;35,64
+UK;Organic Choco Syrup;966;198;16,73;3312,54
+UK;Drinking Coco;385;249;6,47;1611,03
+India;Mint Chip Choco;2219;75;8,79;659,25
+Canada;Choco Coated Almonds;2954;189;8,65;1634,85
+Canada;Choco Coated Almonds;280;87;8,65;752,55
+Canada;70% Dark Bites;6118;174;14,49;2521,26
+UK;Raspberry Choco;4802;36;11,73;422,28
+Australia;85% Dark Bars;4137;60;4,97;298,2
+USA;Fruit & Nut Bars;2023;78;6,49;506,22
+Canada;70% Dark Bites;9051;57;14,49;825,93
+New Zealand;Caramel Stuffed Bars;2919;45;10,38;467,1
+Australia;After Nines;5915;3;9,77;29,31
+USA;Raspberry Choco;2562;6;11,73;70,38
+New Zealand;White Choc;8813;21;13,15;276,15
+Canada;Drinking Coco;6111;3;6,47;19,41
+India;Smooth Sliky Salty;3507;288;5,79;1667,52
+Canada;Milk Bars;4319;30;9,33;279,9
+Australia;Baker's Choco Chips;609;87;5,6;487,2
+UK;Organic Choco Syrup;6370;30;16,73;501,9
+Australia;99% Dark & Pure;5474;168;7,64;1283,52
+Canada;Organic Choco Syrup;3164;306;16,73;5119,38
+USA;Almond Choco;1302;402;11,88;4775,76
+New Zealand;Caramel Stuffed Bars;7308;327;10,38;3394,26
+New Zealand;Organic Choco Syrup;6132;93;16,73;1555,89
+USA;50% Dark Bites;3472;96;11,7;1123,2
+UK;Drinking Coco;9660;27;6,47;174,69
+Australia;Baker's Choco Chips;2436;99;5,6;554,4
+Australia;Peanut Butter Cubes;9506;87;12,37;1076,19
+New Zealand;Spicy Special Slims;245;288;9;2592
+USA;Orange Choco;2702;363;10,62;3855,06
+India;Eclairs;700;87;3,11;270,57
+India;Eclairs;3759;150;3,11;466,5
+USA;Eclairs;1589;303;3,11;942,33
+USA;Caramel Stuffed Bars;5194;288;10,38;2989,44
+Canada;Milk Bars;945;75;9,33;699,75
+Australia;Smooth Sliky Salty;1988;39;5,79;225,81
+India;Choco Coated Almonds;6734;123;8,65;1063,95
+Canada;Almond Choco;217;36;11,88;427,68
+India;After Nines;6279;237;9,77;2315,49
+Canada;Milk Bars;4424;201;9,33;1875,33
+Canada;Eclairs;189;48;3,11;149,28
+USA;After Nines;490;84;9,77;820,68
+New Zealand;Spicy Special Slims;434;87;9;783
+Australia;70% Dark Bites;10129;312;14,49;4520,88
+UK;Caramel Stuffed Bars;1652;102;10,38;1058,76
+Australia;Spicy Special Slims;6433;78;9;702
+India;Fruit & Nut Bars;2212;117;6,49;759,33
+USA;99% Dark & Pure;609;99;7,64;756,36
+USA;85% Dark Bars;1638;48;4,97;238,56
+India;Raspberry Choco;3829;24;11,73;281,52
+UK;Raspberry Choco;5775;42;11,73;492,66
+USA;Orange Choco;1071;270;10,62;2867,4
+Canada;Fruit & Nut Bars;5019;150;6,49;973,5
+New Zealand;Raspberry Choco;2863;42;11,73;492,66
+USA;Manuka Honey Choco;1617;126;7,16;902,16
+New Zealand;Baker's Choco Chips;6818;6;5,6;33,6
+USA;Raspberry Choco;6657;276;11,73;3237,48
+India;Eclairs;2919;93;3,11;289,23
+Canada;Smooth Sliky Salty;3094;246;5,79;1424,34
+UK;85% Dark Bars;2989;3;4,97;14,91
+Australia;Organic Choco Syrup;2268;63;16,73;1053,99
+USA;Smooth Sliky Salty;4753;246;5,79;1424,34
+India;99% Dark & Pure;7511;120;7,64;916,8
+Australia;Smooth Sliky Salty;4326;348;5,79;2014,92
+India;Fruit & Nut Bars;4935;126;6,49;817,74
+USA;70% Dark Bites;4781;123;14,49;1782,27
+Australia;White Choc;7483;45;13,15;591,75
+Australia;Almond Choco;6860;126;11,88;1496,88
+New Zealand;Manuka Honey Choco;9002;72;7,16;515,52
+Canada;Manuka Honey Choco;1400;135;7,16;966,6
+India;After Nines;4053;24;9,77;234,48
+Canada;Smooth Sliky Salty;2149;117;5,79;677,43
+UK;Manuka Honey Choco;3640;51;7,16;365,16
+UK;Fruit & Nut Bars;630;36;6,49;233,64
+USA;Organic Choco Syrup;2429;144;16,73;2409,12
+Canada;White Choc;2142;114;13,15;1499,1
+New Zealand;70% Dark Bites;6454;54;14,49;782,46
+New Zealand;Mint Chip Choco;4487;333;8,79;2927,07
+New Zealand;Almond Choco;938;366;11,88;4348,08
+Australia;Baker's Choco Chips;8841;303;5,6;1696,8
+UK;Peanut Butter Cubes;4018;126;12,37;1558,62
+New Zealand;Raspberry Choco;714;231;11,73;2709,63
+Australia;White Choc;3850;102;13,15;1341,3
